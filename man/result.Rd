@@ -20,6 +20,6 @@ It returns the result of the formula.
 Calculates the result
 }
 \examples{
-result(5, 10, "+") results in 42.
+result(5, 10, "+")
 
 }

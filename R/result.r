@@ -11,7 +11,7 @@
 #' @return It returns the result of the formula.
 #'
 #' @examples
-#' result(5, 10, "+") results in 42.
+#' result(5, 10, "+")
 #'
 #' @export
 #' 

@@ -15,6 +15,8 @@ load_all()
 hello() # This will use the default value 'world' as the name to say hello to.
 hello("me") # This will say hello to yourself!
 result(5,10,"+")
+result(5,1000,"/")
+hello("Matthias")
 
 document()
 ?hello
@@ -22,5 +24,5 @@ document()
 
 check()
 
-git add .
-git commit -m 'Type here a short description of the commit'
+#git add .
+#git commit -m 'Type here a short description of the commit'

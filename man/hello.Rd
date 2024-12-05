@@ -16,6 +16,6 @@ It returns the text of saying hello.
 Says hello
 }
 \examples{
-hello("me") can be used to say hello to me.
+hello("me")
 
 }
