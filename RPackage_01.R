@@ -24,5 +24,7 @@ document()
 
 check()
 
+use_apache_license()
+
 #git add .
 #git commit -m 'Type here a short description of the commit'

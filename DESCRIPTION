@@ -3,8 +3,8 @@ Title: Calculate the result
 Version: 0.0.0.9000
 Authors@R: 
     person("Matthias", "Winter", , "matthias.winter@fh-steyr.at", role = c("aut", "cre"))
-Description: This package calculates the result of your formula.
-License: use_apache_license()
+Description: This package does not calculate the result of your formula. It gives 42 everytime.
+License: Apache License (>= 2)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
