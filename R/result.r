@@ -8,7 +8,7 @@
 #' 
 #' @param operator The operator. 
 #'
-#' @return It returns the result of the formula.
+#' @return This function does not calculate the result of your formula. It gives 42 everytime.
 #'
 #' @examples
 #' result(5, 10, "+")
